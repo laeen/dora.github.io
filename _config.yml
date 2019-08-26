@@ -112,7 +112,7 @@ theme: matery
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
 - type: git
-  repository: git@github.com:godweiyang/godweiyang.github.io.git
+  repository: https://github.com/laeen/dora.github.io.git
   branch: master
 # - type: coding
 #   repository: https://git.coding.net/godweiyang/godweiyang.github.io.git
@@ -141,6 +141,6 @@ live2d:
 
 baidu_url_submit:
   count: 100
-  host: godweiyang.com
+  host: duyujing.我爱你
   token: 
   path: baidu_urls.txt
