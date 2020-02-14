@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://duyujing.%E6%88%91%E7%88%B1%E4%BD%A0/2020/02/14/0214-yi-ge-te-shu-de-ri-zi/</loc>
+    
+    <lastmod>2020-02-14T05:13:20.174Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://duyujing.%E6%88%91%E7%88%B1%E4%BD%A0/2019/08/23/hello/</loc>
     
     <lastmod>2019-08-31T02:30:34.080Z</lastmod>
@@ -16,13 +23,6 @@
   </url>
   
   <url>
-    <loc>https://duyujing.%E6%88%91%E7%88%B1%E4%BD%A0/categories/index.html</loc>
-    
-    <lastmod>2019-08-20T11:15:08.429Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://duyujing.%E6%88%91%E7%88%B1%E4%BD%A0/contact/index.html</loc>
     
     <lastmod>2019-08-20T11:15:08.429Z</lastmod>
@@ -30,7 +30,7 @@
   </url>
   
   <url>
-    <loc>https://duyujing.%E6%88%91%E7%88%B1%E4%BD%A0/friends/index.html</loc>
+    <loc>https://duyujing.%E6%88%91%E7%88%B1%E4%BD%A0/categories/index.html</loc>
     
     <lastmod>2019-08-20T11:15:08.429Z</lastmod>
     
@@ -38,6 +38,13 @@
   
   <url>
     <loc>https://duyujing.%E6%88%91%E7%88%B1%E4%BD%A0/tags/index.html</loc>
+    
+    <lastmod>2019-08-20T11:15:08.429Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://duyujing.%E6%88%91%E7%88%B1%E4%BD%A0/friends/index.html</loc>
     
     <lastmod>2019-08-20T11:15:08.429Z</lastmod>
     
